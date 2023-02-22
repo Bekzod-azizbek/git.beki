@@ -1,5 +1,5 @@
 *{
-    margin: 0%;
+    margin: 0.1%;
     padding: 0;
 }
 .a{
@@ -55,24 +55,30 @@ p{
     top: 39.5%;
 }
 #qisqa{
-    width: 10%;
+    width: 12%;
     /* background-color: aqua; */
     left: 0%;
 }
 .j{
-    width: 20%;
+    width: 17%;
     z-index: 1;
-    right: 0%;
+    /* right: 0%; */
+    height: 5000%;
     background-color: yellow;
     border: #000000 solid 5px;
+    top: 0%;
+    position: absolute;
 }
-.br{
-    top: 98%;
+.l{
+    margin-top: 25%;
+    position: absolute;
 }
 .j2{
-    left: 10%;
+    left: 20%;
 }
-.j{
+.k{
     position: absolute;
-    top: 88%;
+    top: 90%;
+    width: 100%;
+    height: 1%;
 }
